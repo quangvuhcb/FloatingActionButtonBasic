@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add.png",
+        "source": "D:\\FloatingActionButtonBasic\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_tick.png",
+        "source": "D:\\FloatingActionButtonBasic\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_tick.png"
+    },
+    {
+        "merged": "D:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\FloatingActionButtonBasic\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

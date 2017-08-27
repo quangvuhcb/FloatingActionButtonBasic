@@ -1,0 +1,7 @@
+#Tue Jul 25 17:28:44 ICT 2017
+base.0=D\:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6121c872b73a111f1b9b7529e75f0d6644150a6b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_17e37cace9de351a2f2d9dae30b8039a4ded77b0\\classes.dex
+base.1=D\:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_17e37cace9de351a2f2d9dae30b8039a4ded77b0
+file.0=D\:\\FloatingActionButtonBasic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6121c872b73a111f1b9b7529e75f0d6644150a6b\\classes.dex
